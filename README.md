@@ -1,3 +1,3 @@
-![inside](/INSIDE-Free-Download-3.jpg)
+![inside](./INSIDE-Free-Download-3.jpg)
 
 ### Hi there 👋
